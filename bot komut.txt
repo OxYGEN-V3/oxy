@@ -1,0 +1,50 @@
+Komut	Açýklama	Kullaným
+yardým	Bot Komutlarýný Görmek Ýçin.	!yardým
+Botbilgi	Bot Hakkýnda Bilgi Edinebilmen Ýçin Yararlýdýr.	!Botbilgi
+Profiline Bakmak Ýçin	Bir kiþinin profilini gösterir.	!Profil
+davet	Bu Link Ýle Sunucuna Küfür-Reklam Engelleme Botunu Ekleyebilirsin.	!davet
+küfür Kapat	Bu Komut Ýle Küfür Korumasýný Belirlenen Yazý Kanalýnda Engelleyebilirsin.	!küfürkapat
+Küfür Aç	Bu Komut Ýle Küfür Korumasýný Belirlenen Yazý Kanalýnda Aktif Edebilirsin.	!küfüraç
+Reklam Aç	Bu Komut Ýle Reklam Korumasýný Aktif Edebilirsin.	!Reklamaç
+Reklam Kapat	Bu Komut Ýle Reklam Korumasýný Kapatabilirsin.	!ReklamKapat
+Hoþgeldin Kapat	Bu Komut Ýle Sunucuya Girdiklerinde Atýlan Otomatik Hoþgeldin Mesajýný Kapatabilirsin.	!Hoþgeldinkapat
+Hoþgeldin Aç	Bu Komut Ýle Sunucuya Girdiklerinde Atýlan Otomatik Hoþgeldin Mesajýný Aktif Edebilirsin.	!Hoþgeldinaç
+Otomatik Bot Silici Aç	Sadece O Yazýþma Kanalýnda Tüm Botlarýn Mesajlarýný (2) Dakika Sonra Otomatik Siler.
+Chatiniz Daha Temiz Görünür. Aktif Edebilirsin.	!otobotsiliciaç
+Otomatik Bot Silici Kapat	Sadece O Yazýþma Kanalýnda Bu Özelliði Kapatabilirsin.	!otobotsilicikapat
+ReklamcýKick Aç	Reklamcýlarý (3) Kez Uyardýktan Sonra Sunucudan Atar. 
+Bunun Çalýþmasý Ýçin Botun Rolü Üyelerden Yüksekte Olmak Zorundadýr.in.	!reklamkickaç
+ReklamcýKick kapat	Reklamcýlarý (3) Kez Uyardýktan Sonra Sunucudan Atma Özelliðini Devredýþý Býrakýr.	!reklamkickkapat
+Otorol	Sunucuya Yeni Katýlan Üyelere Otomatik Ayarlanan Rolü Verir.
+Örnek Kullaným: !otorol @Roletiket #kanaletiket 
+Bunun Çalýþmasý Ýçin Botun Rolü Üyelerden Yüksekte Olmak Zorundadýr.	!otorol
+Güvenlik Sistemi	"güvenlik" Adýnda Bir Text Channel Açmanýz Gerek.
+Þüpheli Veya Reklam Yapma Ýhtimali Olan Üyeleri Gösterecektir.	!güvenlik
+Koruma Sistemi	"Yönetici" Yetkisi Vermeniz Yeterlidir Aþþaðýdaki Saldýrý Tipini Önler Spambot Korumasý.	!koruma
+Sunucu Tanýt	Bu Komut Ýle Kendi Sunucunu Botun Destek Sunucusunda Ücretsiz Paylaþabilirsin 24 Saatte Bir.	!Sunucutanýt
+Oto Cevap	Oto Cevap Özelliði Siteden Ayaralanabilir..	!otocevap
+Oto Tag	Üyelerinizin Ýsminin Baþýna Sonuna Neresine Ýsterseniz Ýstediðiniz Gibi Tag Ekleyebilirsiniz !tagsistemi.	!ototag
+Kayýt Sistemi	!kayýt Mahmut 18 þeklinde üyeleri otomatik kayýt etme sistemi.	!kayýtsistemi
+Hoþgeldin Bay Bay Sistemi	Resimli Hoþ Geldin / Resimli Bay Bay Sistemi.	!hg-bb-sistemi
+Gold Üye	Bot Üzerinde Premium Üyelik.	!gold
+Puan Sistemi	Puan Marketi.	!P-market
+Site Doðrulama	Yeni katýlan üyeler eðer hesaplarýný siteden hesaplarýný onaylamazlarsa konuþmasýný 2 dakika susturur.	!sitedoðrulamaaç / !sitedoðrulamakapat
+Reklam Ýsim Ban	Sunucunuza katýlan kiþimlerin isminde Discord,Davet,Ýnvite,Join kelimeleri geçiyorsa otomatik banlar.	!reklamisimbanaç / !reklamisimbankapat
+Sayaç Ayarlama	Sunucunuzda sayaç özelliðini açabilirsiniz.!sayaç #kanal .	!sayaç / !sayaçkapat / !sayaçaç
+Link Engelleme Sistemi	.com .net Gibi linklerin Paylaþýmýný o kanalda engeller.	!link-engel-aç / !link-engel-kapat
+Bancý Sistemi	Sunucunuzda ban korumasý yapmak için bu özelliði kesinlikle kullanýnýz!!!	!banözelliði / !bansistemi
+Sunucunuzu Tanýtýr	Sunucunuz'un davet linkini destek sunucusunda paylaþýr.	!sunucutanýt
+Mesaj Silmek	Mesajlarý Toplu Silmek Ýçin Kullanýlýr	!sil 1-400
+Puan Menü	Puan Marketi Menü.	!P-menü
+Sunucu PP Atar	Sunucu fotoðrafýný gösterir.	!Sunucu-pp
+Kredim	Sitedeki kredinizi gösterir ve kalan gold üye sürenizi.	!kredim
+Oy Vermek Ýçin	Bota oy vermek için.	!oyver
+Web Panel	Botu siteden yönetebilirsin.	!webpanel
+Kral Olmak Ýçin	Kral olabilirsin.	!Kralol
+Maymun Olmak Ýçin	Maymun olabilirsin.	!Maymunol
+Yýlan Olmak Ýçin	Yýlan olabilirsin.	!Yýlanol
+Adam Olmak Ýçin	Adam olabilirsin.	!Adamol
+Kedi Olmak Ýçin	Kedi olabilirsin.	!Kediol
+Aþk Seviyeni Görmek Ýçin	Aþk seviyeni görebilirsin.	!aþk
+Token Almak Ýçin	Botun tokenini alabilirsin.	!Token
+Tokat Atmak Ýçin	Tokat atabilirsin.	!tokat
